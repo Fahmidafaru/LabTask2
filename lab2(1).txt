@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i"m a very mane onk beshi good girl
+=======
+bhokkor cokkor
+>>>>>>> feature/logIn
